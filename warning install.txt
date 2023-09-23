@@ -1,0 +1,11 @@
+Warning: Module 'ftp' already loaded in Unknown on line 0
+PHP Warning:  Module 'ftp' already loaded in Unknown on line 0
+Generating optimized class loader
+The compiled services file has been removed.
+Found 9 security vulnerability advisories affecting 2 packages.
+Run "composer audit" for a full list of advisories.
+> php artisan key:generate
+
+Warning: Module 'ftp' already loaded in Unknown on line 0
+PHP Warning:  Module 'ftp' already loaded in Unknown on line 0
+Application key [base64:1lWGujmdER7x9nNRJEp1jv1R76MwqWLkc5h7vcBoEZE=] set successfully.
